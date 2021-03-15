@@ -1,0 +1,12 @@
+[package]
+name = "iupac_replace_symbols"
+version = "1.0.0"
+authors = ["Niklas Birth <birth@posteo.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+needletail = "0.4.1"
+structopt = "0.3.21"
